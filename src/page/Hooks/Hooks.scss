@@ -1,0 +1,11 @@
+.hooks{
+  width: 100%;
+  div{
+    width: 50%;
+    float: left;
+    text-align: center;
+    .classCount,.HooksCount{
+      width: 100%;
+    }
+  }
+}
